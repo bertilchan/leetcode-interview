@@ -12,7 +12,9 @@
 | 题目                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
 | [121. 买卖股票的最佳时机](https://github.com/bertilchan/leetcode-interview/blob/master/problems/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 简单 |
+| [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | 简单 |
 
 
 ## 2. 排序
 
+## 3.动态规划
