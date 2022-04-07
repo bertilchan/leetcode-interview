@@ -19,6 +19,7 @@
 | [557. 反转字符串中的单词 III](https://github.com/bertilchan/leetcode-interview/blob/master/problems/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.md) | 简单 |
 | [1047. 删除字符串中的所有相邻重复项](https://github.com/bertilchan/leetcode-interview/blob/master/problems/1047.%20%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/bertilchan/leetcode-interview/blob/master/problems/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md) | 简单 |
+| [1556. 千位分隔数](https://leetcode-cn.com/problems/thousand-separator/) | 简单 |
 
 ## 2.栈与队列
 
