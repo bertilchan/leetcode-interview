@@ -50,7 +50,7 @@
 | 题目                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
 | [144. 二叉树的前序遍历](https://github.com/bertilchan/leetcode-interview/blob/master/problems/144.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md) | 简单 |
-|                                                              |      |
+| [129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 |
 
 ## 6.堆
 
@@ -112,3 +112,4 @@
 | [56. 合并区间](https://github.com/bertilchan/leetcode-interview/blob/master/problems/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md) | 中等 |
 | [169. 多数元素](https://github.com/bertilchan/leetcode-interview/blob/master/problems/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md) | 简单 |
 | [1013. 将数组分成和相等的三个部分](https://github.com/bertilchan/leetcode-interview/blob/master/problems/1013.%20%E5%B0%86%E6%95%B0%E7%BB%84%E5%88%86%E6%88%90%E5%92%8C%E7%9B%B8%E7%AD%89%E7%9A%84%E4%B8%89%E4%B8%AA%E9%83%A8%E5%88%86.md) | 简单 |
+| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 |
