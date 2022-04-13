@@ -113,3 +113,4 @@
 | [169. 多数元素](https://github.com/bertilchan/leetcode-interview/blob/master/problems/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md) | 简单 |
 | [1013. 将数组分成和相等的三个部分](https://github.com/bertilchan/leetcode-interview/blob/master/problems/1013.%20%E5%B0%86%E6%95%B0%E7%BB%84%E5%88%86%E6%88%90%E5%92%8C%E7%9B%B8%E7%AD%89%E7%9A%84%E4%B8%89%E4%B8%AA%E9%83%A8%E5%88%86.md) | 简单 |
 | [22. 括号生成](https://github.com/bertilchan/leetcode-interview/blob/master/problems/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md) | 中等 |
+| [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 |
