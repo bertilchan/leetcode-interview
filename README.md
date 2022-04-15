@@ -51,6 +51,7 @@
 | ------------------------------------------------------------ | ---- |
 | [144. 二叉树的前序遍历](https://github.com/bertilchan/leetcode-interview/blob/master/problems/144.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md) | 简单 |
 | [129. 求根节点到叶节点数字之和](https://github.com/bertilchan/leetcode-interview/blob/master/problems/129.%20%E6%B1%82%E6%A0%B9%E8%8A%82%E7%82%B9%E5%88%B0%E5%8F%B6%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md) | 中等 |
+| [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | 简单 |
 
 ## 6.堆
 
