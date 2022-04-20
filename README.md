@@ -20,6 +20,7 @@
 | [1047. 删除字符串中的所有相邻重复项](https://github.com/bertilchan/leetcode-interview/blob/master/problems/1047.%20%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/bertilchan/leetcode-interview/blob/master/problems/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md) | 简单 |
 | [1556. 千位分隔数](https://leetcode-cn.com/problems/thousand-separator/) | 简单 |
+| [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 |
 
 ## 2.栈与队列
 
@@ -52,6 +53,8 @@
 | [144. 二叉树的前序遍历](https://github.com/bertilchan/leetcode-interview/blob/master/problems/144.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md) | 简单 |
 | [129. 求根节点到叶节点数字之和](https://github.com/bertilchan/leetcode-interview/blob/master/problems/129.%20%E6%B1%82%E6%A0%B9%E8%8A%82%E7%82%B9%E5%88%B0%E5%8F%B6%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md) | 中等 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | 简单 |
+| [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | 简单 |
+| [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 |
 
 ## 6.堆
 
@@ -115,3 +118,4 @@
 | [1013. 将数组分成和相等的三个部分](https://github.com/bertilchan/leetcode-interview/blob/master/problems/1013.%20%E5%B0%86%E6%95%B0%E7%BB%84%E5%88%86%E6%88%90%E5%92%8C%E7%9B%B8%E7%AD%89%E7%9A%84%E4%B8%89%E4%B8%AA%E9%83%A8%E5%88%86.md) | 简单 |
 | [22. 括号生成](https://github.com/bertilchan/leetcode-interview/blob/master/problems/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md) | 中等 |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 |
+| [69. x 的平方根 ](https://leetcode-cn.com/problems/sqrtx/)   | 简单 |
