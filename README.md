@@ -119,3 +119,5 @@
 | [22. 括号生成](https://github.com/bertilchan/leetcode-interview/blob/master/problems/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md) | 中等 |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 |
 | [69. x 的平方根 ](https://leetcode-cn.com/problems/sqrtx/)   | 简单 |
+| [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |
+| [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 |
