@@ -90,6 +90,7 @@
 | ------------------------------------------------------------ | ---- |
 | [剑指 Offer 10- I. 斐波那契数列](https://github.com/bertilchan/leetcode-interview/blob/master/problems/%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) | 简单 |
 | [剑指 Offer 10- II. 青蛙跳台阶问题](https://github.com/bertilchan/leetcode-interview/blob/master/problems/%E5%89%91%E6%8C%87%20Offer%2010-%20II.%20%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.md) | 简单 |
+| [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 中等 |
 
 ## 11.贪心
 
@@ -121,3 +122,4 @@
 | [69. x 的平方根 ](https://leetcode-cn.com/problems/sqrtx/)   | 简单 |
 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |
 | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 |
+| [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 |
