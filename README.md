@@ -1,12 +1,12 @@
 # leetcode-interview
 
-😀该仓库用来整理 **前端er必知必会的数据结构与算法知识 &amp;&amp; 力扣每日一题打卡**，方便归纳复习！
+😀该仓库用来整理 **力扣每日一题打卡**，方便归纳复习！
 
 💪由于能力有限，解题思路可能不是最优解，若有不足，欢迎指出~
 
 🖨️力扣每日一题放在problems文件夹中，正在更新中...
 
-🤣欢迎小伙伴们提供自己的解题思路，共同交流，一起进步！！
+🤣欢迎小伙伴们加入，共同交流，一起进步！！
 
 ## 1.字符串
 
@@ -126,4 +126,3 @@
 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |
 | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 |
 | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 |
-| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 简单 |
