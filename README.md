@@ -21,6 +21,7 @@
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/bertilchan/leetcode-interview/blob/master/problems/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md) | 简单 |
 | [1556. 千位分隔数](https://leetcode-cn.com/problems/thousand-separator/) | 简单 |
 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 |
+| [面试题 01.03. URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) | 简单 |
 
 ## 2.栈与队列
 
@@ -55,6 +56,7 @@
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | 简单 |
 | [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | 简单 |
 | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 |
+| [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | 简单 |
 
 ## 6.堆
 
@@ -124,3 +126,4 @@
 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |
 | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 |
 | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 |
+| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 简单 |
