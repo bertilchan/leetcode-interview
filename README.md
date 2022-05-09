@@ -46,6 +46,7 @@
 | ---- | ---- |
 |      |      |
 |      |      |
+|      |      |
 
 ## 5.树 / 图
 
@@ -57,6 +58,7 @@
 | [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | 简单 |
 | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | 简单 |
+| [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | 中等 |
 
 ## 6.堆
 
@@ -126,3 +128,6 @@
 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |
 | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 |
 | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 |
+| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 简单 |
+| [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 中等 |
+
